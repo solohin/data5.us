@@ -1,1 +1,1 @@
-# data5.us
+I use this repo for static files hosting.
